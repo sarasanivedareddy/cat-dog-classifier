@@ -1,0 +1,1 @@
+This is an AI image classifier of a cat or a dog. You can view the dataset in which I have given 2 dogs for training and 2 cats for training. Later I have evaluated with an unseen images. Accuracy of unseen images are 66.66%. I have used CNN model. It includes convolutional layer, activation layer, maxpooling, dense. Check my code for more reference.
